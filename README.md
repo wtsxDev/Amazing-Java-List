@@ -100,51 +100,51 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Trove](http://trove.starlight-systems.com/) - Primitive collections.
 
 ## Beginner Books
-* Intro to Java Programming, Comprehensive Version (10th Edition) http://amzn.to/2jcPumF
+* ## Intro to Java Programming, Comprehensive Version (10th Edition) http://amzn.to/2jcPumF
  This is the perfect Java Programming book, Dr. Liang teaches concepts of problem-solving and object-oriented programming using a fundamentals-first approach.
 
-* Java How To Program (Early Objects) (10th Edition) http://amzn.to/2jcHbXW
+* ## Java How To Program (Early Objects) (10th Edition) http://amzn.to/2jcHbXW
  one of the best Java programming books for beginners. If you are completely new to Java this book goes to great lengths to provide you in-depth explanations about every little thing.
 
-* Head First Java, 2nd Edition http://amzn.to/2jPTEmw
+* ## Head First Java, 2nd Edition http://amzn.to/2jPTEmw
  delivers a highly interactive, multisensory learning experience that lets new programmers pick up the fundamentals of the Java language quickly.
 
-* Beginning Programming with Java For Dummies, 4th Edition http://amzn.to/2kh0pxi
+* ## Beginning Programming with Java For Dummies, 4th Edition http://amzn.to/2kh0pxi
  Covering everything from basic Java development concepts to the latest tools and techniques used in Java, it’s a comprehensive guide to learning one of the most popular programming languages worldwide.
 
-* Java: A Beginner's Guide, Sixth Edition http://amzn.to/2jcYbx6
+* ## Java: A Beginner's Guide, Sixth Edition http://amzn.to/2jcYbx6
 Essential Java Programming Skills--Made Easy!
 A very helpful Java book covering all the basics (and much more) of the Java programming language. Very well written
 
-* Java: The Complete Reference, Ninth Edition http://amzn.to/2jcYg3S
+* ## Java: The Complete Reference, Ninth Edition http://amzn.to/2jcYg3S
  Fully updated for Java SE 8,  Java: The Complete Reference, Ninth Edition explains how to develop, compile, debug, and run Java programs.
 
-* Effective Java (2nd Edition) http://amzn.to/2k1yynA
+* ## Effective Java (2nd Edition) http://amzn.to/2k1yynA
  Are you looking for a deeper understanding of the Java programming language so that you can write code that is clearer, more correct, more robust, and more reusable
 
-* Beginning Java Programming: The Object-Oriented Approach http://amzn.to/2k1yG6y
+* ## Beginning Java Programming: The Object-Oriented Approach http://amzn.to/2k1yG6y
  A comprehensive Java guide, with samples, exercises, case studies, and step-by-step instruction
 
 ## Top Java Books
-* Head First Java http://amzn.to/2j5MvkB
+* ## Head First Java http://amzn.to/2j5MvkB
 Head First Java is the best Java book for any programmer who are new in both programming and Java.
 
-*  Head First Design Patterns http://amzn.to/2j5OyFD
+* ## Head First Design Patterns http://amzn.to/2j5OyFD
 Head First Design Pattern is another top class Java book from Head First lab, I guess, this is so far their best title.
 
-* Effective Java http://amzn.to/2jfY2sN
+* ## Effective Java http://amzn.to/2jfY2sN
 Effective Java is one of the best or top Java books in my record and most enjoyable as well.
 
-* Java Concurrency in Practice http://amzn.to/2j5TdHz
+* ## Java Concurrency in Practice http://amzn.to/2j5TdHz
 Java Concurrency in Practice is another classic from Joshua Bloch, Doug Lea, and team.
 
-* Java Generics and Collections http://amzn.to/2jfTKBI
+* ## Java Generics and Collections http://amzn.to/2jfTKBI
 Java Generics and Collection by Naftalin and Philip Wadler from O'Reilly is another good book on Java
 
-* Java Performance from Binu John http://amzn.to/2ktP502
+* ## Java Performance from Binu John http://amzn.to/2ktP502
 Another good book in Java to learn about JVM internals, Garbage collection, JVM tuning, profiling etc and I highly recommend every senior Java developer to read this book.
 
-* Java Puzzlers http://amzn.to/2jqx1X7
+* ## Java Puzzlers http://amzn.to/2jqx1X7
 Java Puzzlers is another worth reading Java book from Joshua Bloch, this time with Neal Gafter.
 
 * Head First Object Oriented Analysis and Design http://amzn.to/2jfWFux
@@ -894,10 +894,10 @@ Thinking in Java book is written by Bruce Eckel who is also the author of Thinki
 
 *Books that had a high impact and are still worth reading.*
 
-* [Effective Java (2nd Edition)](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683)
-* [Java 8 in Action](http://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994/)
-* [Java Concurrency in Practice](http://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601)
-* [Thinking in Java](http://www.amazon.com/Thinking-Java-Edition-Bruce-Eckel/dp/0131872486)
+* #Effective Java (2nd Edition) http://amzn.to/2k1yynA
+* #Java 8 in Action http://amzn.to/2jg9ip8
+* #Java Concurrency in Practice http://amzn.to/2j5Y0IW
+* #Thinking in Java http://amzn.to/2jg7QTS
 
 ## Podcasts
 

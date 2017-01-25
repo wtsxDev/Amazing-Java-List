@@ -4,8 +4,8 @@ A curated list of awesome Java frameworks, libraries and software.
 
 - [Awesome Java](#awesome-java)
     - [Ancients](#ancients)
-    - [Beginner Books](#Beginner-Books)
-    - [Top Java Books](#Top-Java-Books)
+    - [Beginner Books](#beginner-Books)
+    - [Top Java Books](#top-Java-Books)
     - [Bean Mapping](#bean-mapping)
     - [Build](#build)
     - [Bytecode Manipulation](#bytecode-manipulation)

@@ -237,6 +237,7 @@ Thinking in Java book is written by Bruce Eckel who is also the author of Thinki
 * [args4j](http://args4j.kohsuke.org/) - Small library to parse command like arguments similar to javac.
 * [JCommander](http://jcommander.org/) - Command line arguments parsing framework with custom types and validation via implementing interfaces.
 * [JOpt Simple](http://pholser.github.io/jopt-simple/) - Simple parser that uses the POSIX getopt() and GNU getopt_long() syntaxes. Does not use annotations, uses a fluent API instead.
+* [picocli](http://picocli.info) - Annotation based command line parser with strong typing for both options and positional args and support for git-like subcommands. Usage help with ANSI colors. Easily included as source to avoid external dependencies.
 
 ## Compiler-compiler
 

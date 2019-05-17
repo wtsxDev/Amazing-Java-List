@@ -800,6 +800,7 @@ Thinking in Java book is written by Bruce Eckel who is also the author of Thinki
 
 *Tools that test from model to the view.*
 
+* [Appium](https://github.com/appium/appium) - Automation for iOS, Android, and Windows Apps.
 * [Apache JMeter](http://jmeter.apache.org/) - Functional testing and performance measurements.
 * [Arquillian](http://arquillian.org/) - Integration and functional testing platform for Java EE containers.
 * [AssertJ](http://joel-costigliola.github.io/assertj/) - Fluent assertions that improve readability.

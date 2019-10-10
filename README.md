@@ -937,6 +937,7 @@ Thinking in Java book is written by Bruce Eckel who is also the author of Thinki
 * [Simon Maple](https://twitter.com/sjmaple) - Java Champion, virtualJUG founder, LJC leader, RebelLabs author.
 * [Stephen Colebourne](https://twitter.com/jodastephen) - Java Champion, speaker.
 * [Trisha Gee](https://twitter.com/trisha_gee) - Java Champion and speaker.
+* [Vlad Mihalcea](https://twitter.com/vlad_mihalcea) - Java Champion, author of High-Performance Java Persistence book.
 
 ## Websites
 

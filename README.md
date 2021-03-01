@@ -765,6 +765,7 @@ Thinking in Java book is written by Bruce Eckel who is also the author of Thinki
 * [Keyczar](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning.
 * [Nbvcxz](https://github.com/GoSimpleLLC/nbvcxz) - Advanced password strength estimation.
 * [OACC](http://oaccframework.org/) - Provides permission-based authorization services.
+* [OTP-Java](https://github.com/BastiaanJansen/OTP-Java) - One-time password generator library according to RFC 4226 (HOTP) and RFC 6238 (TOTP).
 * [pac4j](https://github.com/pac4j/pac4j) - Security engine.
 * [PicketLink](http://picketlink.org/) - Umbrella project for security and identity management.
 

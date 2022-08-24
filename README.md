@@ -955,6 +955,7 @@ Thinking in Java book is written by Bruce Eckel who is also the author of Thinki
 * [TheServerSide.com](http://www.theserverside.com/)
 * [Vanilla Java](https://vanilla-java.github.io/)
 * [Voxxed](https://www.voxxed.com/)
+* [Explore Java](https://kandi.openweaver.com/explore/java) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
 
 
 Please have a look at

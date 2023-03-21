@@ -124,6 +124,12 @@ A very helpful Java book covering all the basics (and much more) of the Java pro
 
 * ## Beginning Java Programming: The Object-Oriented Approach http://amzn.to/2k1yG6y
  A comprehensive Java guide, with samples, exercises, case studies, and step-by-step instruction
+ 
+ * ## Java SE 11 Programmer I Certification Guide: Covers Exam 1Z0-815 https://www.manning.com/books/java-se-11-programmer-i-certification-guide
+ OCP Java SE 11 Programmer I Certification Guide prepares you for the 1Z0-815 certification test with complete coverage of the exam
+ 
+ * ## How to Raed Java https://www.manning.com/books/how-to-read-java
+ A book that teaches you how to better understand Java application code.
 
 ## Top Java Books
 * ## Head First Java http://amzn.to/2j5MvkB

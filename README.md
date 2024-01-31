@@ -828,6 +828,7 @@ Thinking in Java book is written by Bruce Eckel who is also the author of Thinki
 * [REST Assured](https://github.com/jayway/rest-assured) - Java DSL for easy testing for REST/HTTP services.
 * [Selenide](http://selenide.org/) - Concise API around Selenium to write stable and readable UI tests.
 * [Selenium](http://docs.seleniumhq.org/) - Portable software testing framework for web applications.
+* [Selfie](https://github.com/diffplug/selfie) - Snapshot testing (inline and on disk).
 * [Spock](http://spockframework.github.io/spock/docs/) - JUnit-compatible framework featuring an expressive Groovy-derived specification language.
 * [TestContainers](https://github.com/testcontainers/testcontainers-java) - Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 * [Truth](https://github.com/google/truth) - Google's assertion and proposition framework.
